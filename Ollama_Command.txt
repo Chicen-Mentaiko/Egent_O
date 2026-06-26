@@ -1,0 +1,12 @@
+[Ollama Command]
+
+ollama create [モデル名] -f モデルファイル	=>モデル作成(システムプロンプト導入)
+ollama pull [モデル名]				=>モデルインスコ
+ollama rm [モデル名]				=>モデル削除
+ollama cp [モデル名]				=>コピー
+ollama run [モデル名] "プロンプト"		=>実行、がぞうは"$(コマンド)"
+ollama show@モデル]				=>実行中を確認
+
+
+
+
